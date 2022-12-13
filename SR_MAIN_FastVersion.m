@@ -1,4 +1,4 @@
-% This code provides a simplified implementation of the framework in below paper
+% This code provides a simplified implementation of the framework in below paper. Deconvolution in the paper is replaced by normalised cross-correlation in this code for localisation.
 
 %  J. Yan, T. Zhang, J. Broughton-Venner, P. Huang and M. -X. Tang,
 %  "Super-Resolution Ultrasound Through Sparsity-Based Deconvolution and
