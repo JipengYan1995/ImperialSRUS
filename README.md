@@ -1,4 +1,4 @@
-#SRUS
+#ImperialSRUS
 
 This code provides a simplified implementation of the framework in below paper. Deconvolution in the paper is replaced by normalised cross-correlation in this code for localisation.
 
